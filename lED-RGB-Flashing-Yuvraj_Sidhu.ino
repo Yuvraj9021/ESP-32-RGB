@@ -1,14 +1,14 @@
+//
 const int PIN_RED   = 2; //Red LED on pin 9
 const int PIN_GREEN = 16; //Green LED on pin 10
 const int PIN_BLUE  = 5; //Blue LED on Pin 11
  
-//variables to hold our color intensities
+// variables to hold the color intensities
 int red;
 int green;
 int blue;
  
-/* This function "Set Color" will set the color of the LED
-   rather than doing it over and over in the loop. */
+// This function "Set Color" will set the color of each of the LED's rather than setting code for it over and over in the loop. //
 void setColor(int R, int G, int B) {
   analogWrite(PIN_RED,   R);
   analogWrite(PIN_GREEN, G);
@@ -42,3 +42,4 @@ void loop() {
   setColor(255, 0 , 0); //set LED to Red
   delay(500);
 }
+
