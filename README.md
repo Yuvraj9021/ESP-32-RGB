@@ -11,9 +11,7 @@
 - Analog input data reader code
 - Buttton LED code
 - LED Flashing RGB lights
-- [Contributing](#contributing)
-- [License](#license)
-![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
+- The internet of things: Transforming the way we live and work ESSAY
 
 ## Key Features
 
