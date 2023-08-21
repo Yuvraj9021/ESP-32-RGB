@@ -12,25 +12,10 @@
 - LED Flashing RGB lights
 - The internet of things: Transforming the way we live and work ESSAY
 
-## Key Features
+## Project Overview
 
-* LivePreview - Make changes, See changes
-  - Instantly see what your Markdown documents look like in HTML as you create them.
-* Sync Scrolling
-  - While you type, LivePreview will automatically scroll to the current location you're editing.
-* GitHub Flavored Markdown  
-* Syntax highlighting
-* [KaTeX](https://khan.github.io/KaTeX/) Support
-* Dark/Light mode
-* Toolbar for basic Markdown formatting
-* Supports multiple cursors
-* Save the Markdown preview as PDF
-* Emoji support in preview :tada:
-* App will keep alive in tray for quick usage
-* Full screen mode
-  - Write distraction free.
-* Cross platform
-  - Windows, macOS and Linux ready.
+This project comprises code for my IoT portfolio in which we utilised ESP 32 and devices to control it. For example, LED RGB flashing lights, a button that flashes the LED light when pressed, and an analogue input data reader. 
+Explain what your IT project is all about. Briefly describe the problem it solves or the functionality it provides.
 
 ## How To Use
 
