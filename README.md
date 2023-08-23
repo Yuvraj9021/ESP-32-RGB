@@ -46,6 +46,9 @@ Home Smart IoT Home: Domesticating IoT | Toptal®. (n.d.). Toptal Design Blog. h
 
 ESP32 Tutorials for Beginners. (n.d.). ESP32 Tutorial. https://esp32io.com
 
+OpenAI. (2023, August 23). What is IoT? OpenAI. https://www.openai.com
+
+Paraphrasing Tool - QuillBot AI. (n.d.). Paraphrasing Tool - QuillBot AI. https://quillbot.com
 
 
 
