@@ -42,7 +42,9 @@ CleverDev Software. (n.d.). Wearable Devices in Healthcare: Tech in Healthcare &
 
 How do you define IoT and Industry 4.0? - ISA. (n.d.). isa.org. https://www.isa.org/intech-home/2018/may-june/features/how-do-you-define-iot-and-industry-4-0
 
-Home Smart IoT Home: Domesticating IoT | Toptal®. (n.d.). Toptal Design Blog. https://www.toptal.com/designers/interactive/smart-home-domestic-internet-of-thingsESP32 Tutorials for Beginners. (n.d.). ESP32 Tutorial. https://esp32io.com
+Home Smart IoT Home: Domesticating IoT | Toptal®. (n.d.). Toptal Design Blog. https://www.toptal.com/designers/interactive/smart-home-domestic-internet-of-things
+
+ESP32 Tutorials for Beginners. (n.d.). ESP32 Tutorial. https://esp32io.com
 
 
 
