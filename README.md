@@ -10,7 +10,7 @@
 - Analog input data reader code
 - Buttton LED code
 - LED Flashing RGB lights
-- The internet of things: Transforming the way we live and work ESSAY
+- The internet of things: Transforming the way we live and work [ESSAY](https://docs.google.com/document/d/1Wt5IH17LaeNjB1F9XZUIOBY86MENLj0Rqj9v4UNQ_Lk/edit)
 
 ## Project Overview
 
