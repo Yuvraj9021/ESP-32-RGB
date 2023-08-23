@@ -15,7 +15,7 @@
 ## Project Overview
 
 This project comprises code for my IoT portfolio in which we utilised ESP 32 and devices to control it. For example, LED RGB flashing lights, a button that flashes the LED light when pressed, and an analogue input data reader. 
-Explain what your IT project is all about. Briefly describe the problem it solves or the functionality it provides.
+
 
 ## Hardware Requirements
 - ESP 32 Dev module
